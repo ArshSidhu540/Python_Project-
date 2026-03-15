@@ -1,0 +1,3 @@
+#Welcoming...
+print("Hello Word")
+print("That is my First Repo For Git")
